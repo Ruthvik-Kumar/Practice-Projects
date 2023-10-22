@@ -327,7 +327,7 @@ starwars %>%
 library(gapminder)
 View(gapminder)
 
-t_test_plot
+#t_test_plot
 
 gapminder %>% 
   filter(continent %in% c("Africa", "Europe")) %>% 
@@ -337,7 +337,7 @@ gapminder %>%
 
 # ANOVA
 
-ANOVA_plot
+#ANOVA_plot
 
 gapminder %>% 
   filter(year == 2007) %>% 
@@ -360,7 +360,7 @@ gapminder %>%
   plot()
 
 # chi squared
-chi_plot
+#chi_plot
 
 head(iris)
 
