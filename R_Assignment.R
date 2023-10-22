@@ -383,7 +383,7 @@ flowers %>%
 
 # Linear Model
 
-linear_plot
+#linear_plot
 
 head(cars, 10)
 
